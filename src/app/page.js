@@ -14,7 +14,7 @@ export default function Home() {
   }
 
   function handlerGantiNama(){
-    setNama('Expresidentz')
+    setNama('al')
   }
   
   
